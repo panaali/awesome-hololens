@@ -51,7 +51,7 @@ These libraries are good for using in production since they reduce the time of d
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome!
 
 
 ## License [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
