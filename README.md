@@ -14,6 +14,7 @@ The motivation for creating this list was that I couldn't easily find resources 
 *  [Design](https://developer.microsoft.com/en-us/windows/mixed-reality/design)
 *  [Development](https://developer.microsoft.com/en-us/windows/mixed-reality/development)
 *  [Sharing](https://github.com/Microsoft/MixedRealityToolkit-Unity/blob/master/Assets/HoloToolkit/Sharing/README.md) Not a tutorial but a reference, use mtaulty tutorials instead.
+*  [mtaulty Holotoolkit Sharing](https://mtaulty.com/2017/03/14/hitchhiking-the-holotoolkit-unity-leg-11-more-steps-with-sharing-holographic-experiences/)
 *  [Move/Scale/Rotate](http://dotnetbyexample.blogspot.com/2017/01/manipulating-holograms-move-scale.html) Maybe not updated with the new MixedRealityToolkit.
 
 
