@@ -10,7 +10,6 @@ The motivation for creating this list was that I couldn't easily find resources 
 	*  [Windows Mixed Reality – Bootstrapping Your Development](https://mtaulty.com/2017/11/07/future-decoded-2017-resources/) One of the best intro to developing apps for Hololens. It covers:
 		*  Windows Mixed Reality – Bootstrapping Your Development
 		*  Windows Mixed Reality – Developing with Unity
-	*  
 *  [Design](https://developer.microsoft.com/en-us/windows/mixed-reality/design)
 *  [Development](https://developer.microsoft.com/en-us/windows/mixed-reality/development)
 *  [Sharing](https://github.com/Microsoft/MixedRealityToolkit-Unity/blob/master/Assets/HoloToolkit/Sharing/README.md) Not a tutorial but a reference, use mtaulty tutorials instead.
@@ -34,7 +33,6 @@ These libraries are good for using in production since they reduce the time of d
 ## Reduce Number of Polygons
 * [Simplygon](https://www.simplygon.com)
 * [Blender LOD](https://docs.unity3d.com/Manual/LevelOfDetail.html)
-* 
 
 ## Third Party APIs
 * [Cognitive Services](https://github.com/Microsoft/reality-augmentation-using-cognitive-services) Reality augmentation using Cognitive Services on Windows Mixed Reality
