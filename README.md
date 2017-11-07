@@ -13,7 +13,8 @@ The motivation for creating this list was that I couldn't easily find resources 
 	*  
 *  [Design](https://developer.microsoft.com/en-us/windows/mixed-reality/design)
 *  [Development](https://developer.microsoft.com/en-us/windows/mixed-reality/development)
-*  [Sharing](https://github.com/Microsoft/MixedRealityToolkit-Unity/blob/master/Assets/HoloToolkit/Sharing/README.md) Not a tutorial but a reference, use mtaulty tutorial instead.
+*  [Sharing](https://github.com/Microsoft/MixedRealityToolkit-Unity/blob/master/Assets/HoloToolkit/Sharing/README.md) Not a tutorial but a reference, use mtaulty tutorials instead.
+*  [Move/Scale/Rotate](http://dotnetbyexample.blogspot.com/2017/01/manipulating-holograms-move-scale.html) Maybe not updated with the new MixedRealityToolkit.
 
 
 ## Libraries
@@ -45,15 +46,15 @@ These libraries are good for using in production since they reduce the time of d
 	* [Lunar Module](https://developer.microsoft.com/en-us/windows/mixed-reality/lunar_module)
 	* [Galaxy Explorer](https://developer.microsoft.com/en-us/windows/mixed-reality/galaxy_explorer)
 
-# 3D Model Stores
-* 
-* 
+## 3D Model Stores
+* [3DRemix](https://www.remix3d.com/) 
+* [Poly by Google](https://poly.google.com/)
 
-# Contributing
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 
-# License [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+## License [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [panaali](https://github.com/panaali) has waived all copyright and related or neighboring rights to this work.
