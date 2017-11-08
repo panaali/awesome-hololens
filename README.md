@@ -1,9 +1,21 @@
 # Awesome-Hololens [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome resources for developing Hololens apps
+![Hololens](https://compass-ssl.surface.com/assets/53/71/53719e13-f992-4659-a4df-aa62fb1693b6.jpg?n=Buy_Panel_539.jpg)
 
 The motivation for creating this list was that I couldn't easily find resources for adding move/scale/rotate feature to objects or making the Sharing works properly. Unity versions keeps changing, Holotoolkit evolves very fast, and the documentations take time to be updated. So the best we can do is to collect all resources.
 
+## Contents
+
+- [Tutorials](#Tutorials)
+- [Libraries](#Libraries)
+- [Reduce Number of Polygons](#Reduce Number of Polygons)
+- [Third Party APIs](#Third Party APIs)
+- [Open Source Apps](#Open Source Apps)
+- [3D Model Stores](#3D Model Stores)
+- [Contributing](#Contributing)
+- [License](#License)
 ---
+
 ## Tutorials
 * [Academy](https://developer.microsoft.com/en-us/windows/mixed-reality/academy) Basic tutorials for learning how to create apps, not good for production since they're not using MixedRealityToolkit
 *  [mtaulty Hololens Experience](https://mtaulty.com/category/hololens)
@@ -51,7 +63,7 @@ These libraries are good for using in production since they reduce the time of d
 
 ## Contributing
 
-Contributions welcome!
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
 ## License [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
