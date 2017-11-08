@@ -8,10 +8,10 @@ The motivation for creating this list was that I couldn't easily find resources 
 
 - [Tutorials](#Tutorials)
 - [Libraries](#Libraries)
-- [Reduce Number of Polygons](#Reduce Number of Polygons)
-- [Third Party APIs](#Third Party APIs)
-- [Open Source Apps](#Open Source Apps)
-- [3D Model Stores](#3D Model Stores)
+- [Reduce Number of Polygons](#Reduce-Number-of-Polygons)
+- [Third Party APIs](#Third-Party-APIs)
+- [Open Source Apps](#Open-Source-Apps)
+- [3D Model Stores](#3D-Model-Stores)
 - [Contributing](#Contributing)
 - [License](#License)
 ---
