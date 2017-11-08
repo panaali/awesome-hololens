@@ -6,14 +6,14 @@ The motivation for creating this list was that I couldn't easily find resources 
 
 ## Contents
 
-- [Tutorials](#Tutorials)
-- [Libraries](#Libraries)
-- [Reduce Number of Polygons](#Reduce-Number-of-Polygons)
-- [Third Party APIs](#Third-Party-APIs)
-- [Open Source Apps](#Open-Source-Apps)
-- [3D Model Stores](#3D-Model-Stores)
-- [Contributing](#Contributing)
-- [License](#License)
+- [Tutorials](#tutorials)
+- [Libraries](#libraries)
+- [Reduce Number of Polygons](#reduce-number-of-polygons)
+- [Third Party APIs](#third-party-apis)
+- [Open Source Apps](#open-source-apps)
+- [3D Model Stores](#3d-model-stores)
+- [Contributing](#contributing)
+- [License](#license)
 ---
 
 ## Tutorials
